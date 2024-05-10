@@ -1,0 +1,10 @@
+@FederataFutbollit_HostAddress = http://localhost:5178
+
+GET {{FederataFutbollit_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+GET {{FederataFutbollit_HostAddress}}/api/selektori
+
+###
